@@ -49,6 +49,13 @@ O projeto investiga como diferentes hábitos ao volante — variação de rotaç
 - **Versionamento:** Git
  
 ---
+## Fonte do dataset
+
+https://www.kaggle.com/datasets/sonalshinde123/eco-driving-behavior-dataset/data
+
+Licença do dataset: CC0: Public Domain
+
+---
 
 ## Licença
  
